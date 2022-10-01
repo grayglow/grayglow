@@ -1,6 +1,6 @@
 - 👋 'Hi, my name is {n} and i am {age}'.format(n='Andrey', age=23)
 - 👀 I’m interested in workout and series
-- 🌱 I’m currently learning PY
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ... bz-bz-bz
 - 📫 How to reach me {inst: gray.glow, tg: @grayglow}
 
