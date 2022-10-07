@@ -1,4 +1,4 @@
-- 👋 'Hi, my name is {n} and i am {age}'.format(n='Andrey', age=23)
+- 👋 'Hi, my name is Andrey and i am 23 yo
 - 👀 I’m interested in workout and series
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ... bz-bz-bz
