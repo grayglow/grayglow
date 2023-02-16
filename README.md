@@ -1,4 +1,4 @@
-- 👋 'Hi, my name is Andrey and i am 23 yo
+- 👋 'Hi, my name is Andrey and i am 24 yo
 - 👀 I’m interested in workout and series
 - 🌱 I’m currently learning Python
 - 📫 How to reach me inst: gray.glow, tg: @grayglow
